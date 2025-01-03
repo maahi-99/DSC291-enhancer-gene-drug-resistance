@@ -1,6 +1,7 @@
 ### README: Integrative Single-Cell Multi-Omics Analysis of Drug Resistance in Breast Cancer
 
 ---
+Maahi Shah, Eric Pham, Ben Deviney
 
 #### Introduction 
 This project integrates single-cell RNA sequencing (scRNA-seq) and single-cell ChIP sequencing (scChIP-seq) data to investigate transcriptional and chromatin state changes associated with drug resistance in breast cancer. By analyzing gene expression and enhancer activity in treated and untreated samples, the workflow identifies key genes and regulatory elements linked to drug resistance. The scRNA-seq data highlights differentially expressed genes, while scChIP-seq identifies differentially active enhancer regions and maps them to their target genes. The combined results provide insights into potential mechanisms of drug resistance and targets for future therapeutic strategies.
